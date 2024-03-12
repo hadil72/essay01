@@ -1,0 +1,64 @@
+body{
+background: black;
+}
+
+.wrap{
+	color: whitesmoke;
+	width: 800px;
+	margin: auto;
+}
+
+header{
+	padding-top: 200px;
+}
+
+.center-spacing{
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: center;
+}
+
+footer{
+	padding-top: 150px;
+	padding-bottom: 100px;
+	font-family: "Lato", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+}
+
+h1{
+	color: whitesmoke;
+	margin: 0;
+	font-family: sans-serif;
+}
+
+img{
+	display: block;
+	width: 100%;
+}
+
+.purple{
+	background: rgb(0,0,0);
+	background: linear-gradient(3deg, rgba(0,0,0,1) 47%, rgba(138,43,226,1) 100%);
+	padding-bottom: 5px;
+}
+
+h2{
+	margin: 100px;
+	margin-bottom: 0px;
+	padding-bottom: 20px;
+	border-bottom: 5px solid blueviolet;
+	color: blueviolet;
+	font-family: fantasy;
+	letter-spacing: 5px;
+}
+
+p{
+	margin: 100px;
+	margin-top: 50px;
+	font-family: "Lato", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+	font-size: 1rem;
+	line-height: 1.5rem;
+}
